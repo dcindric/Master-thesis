@@ -25,8 +25,8 @@ The performed measurements showed the success of ECG signal acquisition and R â€
 
 ### Results
 
-Raw ECG
+#### Raw ECG
 ![Raw ECG](ecg_raw.png)
 
-Filtered ECG
+#### Filtered ECG
 ![Filtered ECG](ecg_filtered.png)
