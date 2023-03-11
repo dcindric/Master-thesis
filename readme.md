@@ -13,3 +13,20 @@ The performed measurements showed the success of ECG signal acquisition and R â€
 
 
  </div>
+
+### Top and bottom 3D view of the CBDAQS system in Altium Designer:
+![CBDAQS 3D view](pcb_3d_print_top_bot.png)
+
+### Actual CBDAQS system in a case:
+![CBDAQS in case](cbdaqs_in_case.png)
+
+### Active electrode
+![Active electrode](active_electrodes.png)
+
+### Results
+
+Raw ECG
+![Raw ECG](ecg_raw.png)
+
+Filtered ECG
+![Filtered ECG](ecg_filtered.png)
